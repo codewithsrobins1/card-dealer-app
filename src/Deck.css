@@ -1,0 +1,27 @@
+.Deck-cardarea{
+    margin-top: 5em;
+}
+
+.text{
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.btn{
+    padding: 1em;
+    margin: 1em;
+    color: #fff;
+    background-color: #17181c;
+    outline: none;
+    border: 2px solid #fff;
+    cursor: pointer;
+    transition: .2s ease-in-out;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.btn:hover{
+    background-color: #fff;
+    border: 2px solid #17181c;
+    color: #17181c;
+}
