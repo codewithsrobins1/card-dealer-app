@@ -4,7 +4,7 @@ A simple react app to deal a card every time the button is hit.
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/pokecard-game/blob/master/image/projectImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/card-dealer-app/blob/master/readMeImg.PNG?raw=true)
 
 ### Built With
 
